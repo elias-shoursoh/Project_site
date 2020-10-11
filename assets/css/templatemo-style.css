@@ -460,8 +460,6 @@ button:hover {
 .service-item .first-service-icon {
     background-image: url(../images/java_transparent.png);
 	margin-left: 40px;
-	/* width: 90px; */
-	/* height: 100px; */
 }
 
 .service-item:hover .first-service-icon {
@@ -519,8 +517,8 @@ button:hover {
 .service-item .seventh-service-icon {
     background-image: url(../images/git.png);
 	margin-left: 45px;
-	width: 80px;
-	height: 80px;	
+	width: 85px;
+	height: 85px;	
 }
 
 
